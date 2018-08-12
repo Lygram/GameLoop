@@ -1,0 +1,9 @@
+C:\Users\punch\source\repos\GameLoop\GameLoop\bin\Debug\GameLoop.exe.config
+C:\Users\punch\source\repos\GameLoop\GameLoop\bin\Debug\GameLoop.exe
+C:\Users\punch\source\repos\GameLoop\GameLoop\bin\Debug\GameLoop.pdb
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.csprojResolveAssemblyReference.cache
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.Properties.Resources.resources
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.csproj.GenerateResource.Cache
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.csproj.CoreCompileInputs.cache
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.exe
+C:\Users\punch\source\repos\GameLoop\GameLoop\obj\Debug\GameLoop.pdb
